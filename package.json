@@ -1,7 +1,7 @@
 {
-  "name": "tokyo-shrunal",
+  "name": "tokyo",
+  "homepage": "https://gitname.github.io/react-gh-pages",
   "version": "2.3.0",
-  "homepage": "https://shrunalp.github.io/shrunalp.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
