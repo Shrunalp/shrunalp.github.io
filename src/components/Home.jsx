@@ -19,7 +19,7 @@ const Home = () => {
           <div className="details">
             <h3 className="name">Shrunal Pothagoni</h3>
             <p className="job">
-              I like math.
+              PhD student at George Mason University with interests in computational topology and geometry, machine learning, and data science.
             </p>
             {/* END JOB */}
             <Social />
