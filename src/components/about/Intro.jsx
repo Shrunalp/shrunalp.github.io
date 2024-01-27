@@ -2,9 +2,9 @@ import React from "react";
 
 const Intro = () => {
   const introContent = {
-    image: "assets/img/slider/1.jpg",
-    name: "Adriano Smith",
-    designation: "Web Developer",
+    image: "assets/img/slider/profile_pic.jpg",
+    name: "Shrunal Pothagoni",
+    designation: "Mathematician, Machine Learning Engineer, Computer Vision Scientist",
     text: (
       <>
         <p>
