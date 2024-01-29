@@ -8,16 +8,17 @@ const Intro = () => {
     text: (
       <>
         <p>
-          Hi, my name is Adriano Smith and I began using WordPress when it first
-          began. I’ve spent most of my waking hours for the last ten years
-          designing, programming and operating WordPress sites.
+          I am currently in the second year of my Ph.D. at George Mason University 
+          and am studying mathematics under the guidance of Dr. Benjamin Schweinhart.
+          I am broadly interested in the intersection of computational geometry and 
+          topology and machine learning.  
         </p>
         <p>
-          One of my specialties is taking an idea from scratch and creating a
-          full-fledged platform. I go beyond to produce sites with a unique,
-          outstanding, contemporary look-and-feel. With extensive knowledge of
-          web mechanics, I’m able to optimize complex integrations to require
-          little-to-no maintenance while running on their own for years.
+          My research interests are focused on studying the local geometric properties 
+          of cell structures that naturally arise in fields such as materials science and 
+          biology. In particular, I am interested in studying how the local geometry of 
+          an image can be used to understand its global behavior using machine learning 
+          algorithms.
         </p>
       </>
     ),

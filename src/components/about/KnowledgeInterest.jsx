@@ -7,11 +7,11 @@ const KnowledgeInterest = () => {
       colClass: "left",
       title: "Knowledge",
       content: [
-        " Bootstrap, Angular",
-        " React, Vue, Laravel",
-        " Stylus, Sass, Less",
-        " Gulp, Webpack, Grunt",
-        " Tweenmax, GSAP",
+        " Python, MatLab, Mathematica",
+        " R, C/C++, Rust, LATEX",
+        " Scikit, PyTorch, Pandas",
+        " TensorFlow, NumPy, Sklearn",
+        " Kaggle, Weights & Biases, Linux",
       ],
     },
     {
@@ -19,11 +19,11 @@ const KnowledgeInterest = () => {
       colClass: "right",
       title: "Interests",
       content: [
-        " Make UI/UX Design",
-        " Create Mobile App",
-        " Site Optimization",
-        " Custom Website",
-        "Learn Ecommerce",
+        " ML Architecture Design",
+        " Computational Geometry",
+        " Topological Data Analysis",
+        " Computer Vision",
+        " Mentoring",
       ],
     },
   ];

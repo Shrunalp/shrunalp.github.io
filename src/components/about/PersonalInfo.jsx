@@ -8,34 +8,29 @@ const PersonalInfo = () => {
       info: [
         {
           id: 1,
-          name: "Birthday",
-          content: "01.07.1990",
+          name: "Age",
+          content: "24",
         },
         {
           id: 2,
-          name: "Age",
-          content: "32",
+          name: "Address",
+          content: "4400 University Drive, Fairfax, Virginia 22030",
         },
         {
           id: 3,
-          name: "Address",
-          content: "Ave 11, New York, USA",
-        },
-        {
-          id: 4,
           name: "Email",
           content: (
             <>
-              <a href="mailto:tokyo@gmail.com">tokyo@gmail.com</a>
+              <a href="mailto:shrunal.pothagoni@gmail.com">shrunal.pothagoni@gmail.com</a>
             </>
           ),
         },
         {
-          id: 5,
+          id: 4,
           name: "Phone",
           content: (
             <>
-              <a href="tel:+77 022 177 05 05">+77 022 177 05 05</a>
+              <a href="tel:+1 703 470 1144">+1 703 470 1144</a>
             </>
           ),
         },
@@ -53,22 +48,17 @@ const PersonalInfo = () => {
         {
           id: 2,
           name: "Study",
-          content: "Univercity of Texas",
+          content: "George Mason University",
         },
         {
           id: 3,
           name: "Degree",
-          content: "Master",
+          content: "PhD",
         },
         {
           id: 4,
           name: "Interest",
-          content: "Playing Football",
-        },
-        {
-          id: 5,
-          name: "Freelance",
-          content: "Available",
+          content: "Building Speakers",
         },
       ],
     },
